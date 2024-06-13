@@ -6,4 +6,4 @@
 
 ## 번역기여자
 
-- [Misenye](discordapp.com/users/919963965382070282)
+- [Misenye](https://discordapp.com/users/919963965382070282)
