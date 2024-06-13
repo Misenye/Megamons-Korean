@@ -1,39 +1,39 @@
 {
     "cobblemon.species.megacharizardx.name": "메가리자몽X",
-    "cobblemon.species.megacharizardx.desc1": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
-    "cobblemon.species.megacharizardx.desc2": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+    "cobblemon.species.megacharizardx.desc1": "지상 1400m까지 날개를 사용해 날 수 있다. 고열의 불꽃을 내뿜는다.",
+    "cobblemon.species.megacharizardx.desc2": "입에서 작렬하는 불꽃을 토해낼 때 꼬리의 끝이 더욱 붉고 격렬하게 타오른다.",
     
     "cobblemon.species.megacharizardy.name": "메가리자몽Y",
-    "cobblemon.species.megacharizardy.desc1": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
-    "cobblemon.species.megacharizardy.desc2": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "cobblemon.species.megacharizardy.desc1": "힘든 싸움을 경험한 리자몽일수록 불꽃 온도가 높아진다고 전해진다.",
+    "cobblemon.species.megacharizardy.desc2": "강한 상대를 찾아 하늘을 날아다닌다. 무엇이든 다 녹여버리는 고열의 불꽃을 자신보다 약한 자에게 들이대지 않는다.",
 
     "cobblemon.species.megablastoise.name": "메가거북왕",
-    "cobblemon.species.megablastoise.desc1": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-    "cobblemon.species.megablastoise.desc2": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "cobblemon.species.megablastoise.desc1": "등껍질의 로켓포에서 뿜어져 나오는 제트 수류는 두꺼운 철판도 뚫는다.",
+    "cobblemon.species.megablastoise.desc2": "무거운 몸으로 상대를 덮쳐서 기절시킨다. 위기에 처하면 등껍질에 숨는다.",
 
     "cobblemon.species.megavenusaur.name": "메가이상해꽃",
-    "cobblemon.species.megavenusaur.desc1": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
-    "cobblemon.species.megavenusaur.desc2": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power.",
+    "cobblemon.species.megavenusaur.desc1": "비가 내린 다음 날은 등의 꽃향기가 강해진다. 향기에 이끌려 포켓몬이 모여든다.",
+    "cobblemon.species.megavenusaur.desc2": "등 위에 활짝 핀 큰 꽃은 태양 빛을 흡수해서 에너지로 변환할 수 있다.",
 
     "cobblemon.species.megabeedrill.name": "메가독침붕",
-    "cobblemon.species.megabeedrill.desc1": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-    "cobblemon.species.megabeedrill.desc2": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "cobblemon.species.megabeedrill.desc1": "고속으로 날아다니며 독침으로 공격한 뒤 바로 날아가 버리는 전법이 특기다.",
+    "cobblemon.species.megabeedrill.desc2": "양손과 엉덩이에 있는 3개의 독침으로 상대를 찌르고 찌르고 또 찌르며 공격한다.",
 
     "cobblemon.species.megaaerodactyl.name": "메가프테라",
-    "cobblemon.species.megaaerodactyl.desc1": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-    "cobblemon.species.megaaerodactyl.desc2": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "cobblemon.species.megaaerodactyl.desc1": "호박에 남아 있던 공룡의 유전자에서 부활시켰다. 높은 소리로 울며 난다.",
+    "cobblemon.species.megaaerodactyl.desc2": "날카로운 목소리로 울부짖으며 고대의 넓은 하늘을 날아다녔다고 여겨지는 거칠고 사나운 포켓몬이다.",
 
     "cobblemon.species.megapidgeot.name": "메가피죤투",
-    "cobblemon.species.megapidgeot.desc1": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
-    "cobblemon.species.megapidgeot.desc2": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+    "cobblemon.species.megapidgeot.desc1": "피죤투가 힘껏 날개를 치면 큰 나무도 휠 정도의 강풍을 일으킨다.",
+    "cobblemon.species.megapidgeot.desc2": "먹이를 찾을 때 수면을 아슬아슬하게 미끄러지듯 날아 잉어킹 등을 움켜잡는다.",
 
     "cobblemon.species.megaalakazam.name": "메가후딘",
-    "cobblemon.species.megaalakazam.desc1": "The spoons clutched in its hands are said to have been created by its psychic powers.",
-    "cobblemon.species.megaalakazam.desc2": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+    "cobblemon.species.megaalakazam.desc1": "지니고 있는 숟가락은 후딘이 초능력으로 만들어 낸 것이다. 이 세상에 1개뿐인 오리지널이다.",
+    "cobblemon.species.megaalakazam.desc2": "뇌세포는 항상 분열해서 죽을 때까지 늘어나기 때문에 모든 것을 기억해 놓을 수 있다.",
 
     "cobblemon.species.megalucario.name": "메가루카리오",
-    "cobblemon.species.megalucario.desc1": "Black streaks all over its body show where its auras and the energy of Mega Evolution intermingled and raced through it.",
-    "cobblemon.species.megalucario.desc2": "It readies itself to face its enemies by focusing its mental energies. Its fighting style can be summed up in a single word: heartless.",
+    "cobblemon.species.megalucario.desc1": "메가진화 에너지와 파동이 섞여 돌아다닌 흔적이 온몸에 검게 새겨져 있다.",
+    "cobblemon.species.megalucario.desc2": "모든 신경을 집중해서 눈 앞의 적에게 맞선다. 싸우는 모습은 한마디로 비정하다.",
 
     "cobblemon.species.megasteelix.name": "메가강철톤",
     "cobblemon.species.megasteelix.desc1": "It’s said that if an ONIX lives for 100 years, its composition becomes diamondlike as it evolves into a STEELIX.",
